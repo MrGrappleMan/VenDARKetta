@@ -1,12 +1,6 @@
 {
     "name": "VenDARKetta",
     "description": "AMOLED optimized",
-    "authors": [
-      {
-        "name": "MrGrappleMan",
-        "id": "741921582452310095"
-      }
-    ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
       "#ffffff"
